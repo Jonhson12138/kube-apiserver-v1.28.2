@@ -1,1 +1,1 @@
-From kube-apiserver:v1.28.2
+From registry.k8s.io/kube-apiserver:v1.28.2
